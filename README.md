@@ -1,6 +1,6 @@
 Hi, I'm Ema 🤙
 
-Software developer that loves building solutions that actually make a difference.
+Software developer that loves building solutions that make a difference.
 
 ---
 
