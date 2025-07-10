@@ -34,7 +34,7 @@ Selenium
 
 ### Connect
 
-<a href="https://www.linkedin.com/in/rosoema/" target="_blank">LinkedIn</a> • <a href="https://rosoema.com/" target="_blank">Portfolio</a> • <a href="https://twitter.com/rosoema_dev" target="_blank">Twitter</a> • <a href="https://www.facebook.com/rosoema.dev" target="_blank">Facebook</a> • <a href="https://www.instagram.com/rosoema_dev/" target="_blank">Instagram</a> • <a href="https://www.youtube.com/@EmaRoso" target="_blank">YouTube</a> • <a href="https://www.tiktok.com/@emaroso" target="_blank">TikTok</a>
+[LinkedIn](https://www.linkedin.com/in/rosoema/) • [Portfolio](https://rosoema.com/) • [Twitter](https://twitter.com/rosoema_dev) • [Facebook](https://www.facebook.com/rosoema.dev) • [Instagram](https://www.instagram.com/rosoema_dev/) • [YouTube](https://www.youtube.com/@EmaRoso) • [TikTok](https://www.tiktok.com/@emaroso)
 
 ---
 
