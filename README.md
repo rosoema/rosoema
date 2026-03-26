@@ -1,6 +1,6 @@
 Hi, I'm Ema 🤙
 
-Software dev transitioning into cybersecurity.
+Developer background, security focus.
 
 ---
 
