@@ -1,6 +1,6 @@
 Hi, I'm Ema 🤙
 
-Software dev with 3+ years of experience transitioning into cybersecurity.
+Software dev transitioning into cybersecurity.
 
 ---
 
