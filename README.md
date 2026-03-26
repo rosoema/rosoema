@@ -1,10 +1,10 @@
 Hi, I'm Ema 🤙
 
-Software developer who enjoys building solutions that make a difference.
+Software dev with 3+ years of experience transitioning into cybersecurity.
 
 ---
 
-### Core Technologies
+### Core Tech
 
 **Languages & Frameworks**  
 Python • JavaScript • Node.js • Express.js
@@ -20,15 +20,13 @@ Selenium
 
 ---
 
-### What I Do
+### Certifications & Training
 
-**Full-cycle development** from initial concept through maintenance and optimization
+- **CompTIA Security+** (CompTIA, 2026)
 
-**Rapid technology adoption** and implementation of new tools and frameworks
+- **Google Cybersecurity Professional Certificate** (Google, 2025)
 
-**Strategic execution** translating complex requirements into maintainable solutions
-
-**Process enhancement** establishing workflows that boost team productivity
+- **Python Specialization** (University of Michigan, 2023)
 
 ---
 
@@ -38,4 +36,4 @@ Selenium
 
 ---
 
-*Making meaningful contributions through strategic thinking and systematic execution.*
+*Building things, learning things.*
