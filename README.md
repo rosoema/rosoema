@@ -1,6 +1,6 @@
 Hi, I'm Ema 🤙
 
-Developer background, security focus.
+Software engineering background, security focus.
 
 ---
 
